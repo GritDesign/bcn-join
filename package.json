@@ -1,0 +1,20 @@
+{
+  "author": "Mark Stewart <mark@grit-design.com>",
+  "name": "bcn-join",
+  "description": "Bcn stream joiner",
+  "version": "0.1.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GritDesign/bcn-join.git"
+  },
+  "engines": {
+    "node": "~0.8.5"
+  },
+  "main": "lib/bcn-join.js",
+  "dependencies": {
+    "bcn-compare": "0.0.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {}
+}
